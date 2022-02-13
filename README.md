@@ -1,2 +1,2 @@
 # pytion
-一个编程语言
+A Programming Language
